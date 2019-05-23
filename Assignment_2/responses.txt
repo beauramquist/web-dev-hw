@@ -1,0 +1,4 @@
+All of the information sent on the internet is essentially made from bits, which are considered atoms of information. These bits are pretty much pairs of opposite like yes or no. These thousands upon thousands of bits travel using packets.
+The Domain Name System associates website names with corresponding IP addresses. This relationship allows our devices to reach our desired websites on the internet.
+Cookies are used for websites to remember your login information/identity on a given website. This is basically an I.D card containing our information.
+The three basic parts of a URL are the protocol, the domain name, and the path.
