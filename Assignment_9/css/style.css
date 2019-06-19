@@ -1,0 +1,49 @@
+body {
+  color:black;
+}
+h1 {
+  color: black;
+}
+h2 {
+  color: orangered;
+  font-size: 85px;
+}
+*{
+  font-style: normal;
+  font font-family: sans-serif;
+}
+/*Remember that *{} in styling means that it effects everything on the page */
+
+.square {
+  width:  50%;
+  height: 50%;
+}
+    #darkmagenta {
+      background-color: darkmagenta;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
+    #Chartreuse {
+      background-color: Chartreuse;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+
+    }
+    #cyan {
+      background-color: cyan;
+      position: absolute;
+      top:0;
+      left:0;
+    }
+    #orangered {
+      background-color: orangered;
+      position: absolute;
+      top: 0;
+      right: 0;
+
+    }
+ul {
+  opacity: .5;
+}

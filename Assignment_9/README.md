@@ -1,0 +1,3 @@
+Universal selectors effect everything on the page, element selectors only effect what you choose like all heading 1's, class selectors will style certain classes the same, id tags will style your specific id with a # in css.
+Orangered, Cyan, Chartreuse, and Darkmagenta were the colors I used. I looked up classic 90's colors and tried to mimic them by picking the colors that Atom provides.
+ My work cycle for this assignment has been a bit different than the last few because I had the detailed walkthrough this time. That gave me a really good foundation to start my project without compromising my creativity at all. I had a bit of trouble using opacity or at least finding a good way to incorporate it into my page, but I'm eager to learn more about that function. 
