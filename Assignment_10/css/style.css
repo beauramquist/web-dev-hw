@@ -1,0 +1,38 @@
+/*Everything but Text */
+body {
+  background-color: darkolivegreen;
+  color: cornsilk;
+  padding: 5px;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+/*Passage Content */
+.text {
+  background-color: cornsilk;
+  color: darkolivegreen;
+  padding: 5px;
+  line-height: 1.5em;
+}
+h1 {
+  font-size: 40px;
+}
+p:first-of-type::first-letter {
+  font-family: 'Oleo Script', cursive;
+  font-size: 40px;
+  font-weight: 800;
+  color: saddlebrown;
+
+}
+a {
+  background-color: saddlebrown;
+  color: white;
+  padding: 5px;
+}
+a:hover {
+  font-style: italic;
+  font-size: 20px;
+}
+a:active {
+background-color: white;
+color: saddlebrown;
+}
