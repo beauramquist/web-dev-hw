@@ -1,0 +1,3 @@
+I had a great learning experience in HTML, and I feel really comfortable using it. The only part that gave me trouble was organizing my sections with divs, ids, and classes.
+I feel confident that I will be able to excel in CSS and start to have fun with style, I'm nervous that it might take awhile to become comfortable using it or that I wont be able to style my website exactly how I want.
+My work cycle for this assignment was very similar to the last two assignments because there wasn't a lot of new material to learn besides linking pages, it was more so just applying what I already know about from the last modules. I broke down each step and visited past tutorials if I needed the help. 
