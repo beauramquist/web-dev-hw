@@ -6,12 +6,16 @@
   position: relative;
 }
 h1 {
-    color:black;
+    color:pink;
     position: absolute;
-    bottom: -500px;
-    left: -200px;
+    top: 250px;
+    left: 50px;
+    padding-left: 73px;
+    margin:70px;
+    display: inline-block;
+
 }
-}
+
 .square {
   height: 100px;
   width: 100px;
@@ -21,31 +25,31 @@ h1 {
   position: absolute;
   top: 150px;
   left: 100px;
-
+  z-index: 5;
 }
 #green {
   background: green;
   position: absolute;
-  top: 0px;
-  left: 100px;
+  top: 150px;
+  left: 200px;
 }
 
 #yellow {
   background: yellow;
   position: absolute;
-  top: 0px;
-  left: 100px;
+  top: 150px;
+  left: 300px;
 }
 #orange {
   background: orange;
   position: absolute;
-  top: ;
-  left: 100px;
+  top: 150px;
+  left: 400px;
 }
 
 #red {
   background: red;
   position: absolute;
-  top: 0px;
-  left: 100px;
+  top: 150px;
+  left: 500px;
 }
