@@ -1,0 +1,51 @@
+#canvas {
+  width: 600px;
+  height: 400px;
+  background-color: black;
+  border: 15px solid gold;
+  position: relative;
+}
+h1 {
+    color:black;
+    position: absolute;
+    bottom: -500px;
+    left: -200px;
+}
+}
+.square {
+  height: 100px;
+  width: 100px;
+}
+#blue {
+  background: blue;
+  position: absolute;
+  top: 150px;
+  left: 100px;
+
+}
+#green {
+  background: green;
+  position: absolute;
+  top: 0px;
+  left: 100px;
+}
+
+#yellow {
+  background: yellow;
+  position: absolute;
+  top: 0px;
+  left: 100px;
+}
+#orange {
+  background: orange;
+  position: absolute;
+  top: ;
+  left: 100px;
+}
+
+#red {
+  background: red;
+  position: absolute;
+  top: 0px;
+  left: 100px;
+}
