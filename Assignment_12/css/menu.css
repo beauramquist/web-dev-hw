@@ -1,0 +1,84 @@
+/* MENU BAR (CONTAINER): */
+menu {
+  margin: 0;
+  padding: 0;
+  background-color: darkolivegreen;
+  font-family: 'Anton', sans-serif;
+}
+
+
+/*TOP-LEVEL LINKS: */
+#site-links {
+  margin: 0;
+  padding: 0;
+display: inline-block;
+
+}
+
+
+
+#site-links .menu-item {
+  width: 6em;
+  padding:1em 1em;
+  display: inline-block;
+  text-align: center;
+  color: white;
+  background: darkolivegreen;
+}
+#site-links .menu-item:hover {
+  color: saddlebrown;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
+
+/* DROPDOWN */
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+}
+#site-links .dropdown-content {
+  position: absolute;
+  background color: saddlebrown;
+  display: none;
+  z-index: 5;
+}
+#site-links .dropdown-content a {
+  color: white;
+  font-family: 'Arvo', Georgia, serif;
+}
+#site-links .dropdown-content a:hover {
+  color: saddlebrown;
+  font-weight: 900;
+}
+#site-links .dropdown:hover .dropdown-content {
+  display: block;
+  background-color: darkolivegreen;
+}
+#site-links .dropdown-item {
+  min-width: 6em;
+  padding: .5em 1em;
+  display: block;
+  text-align: center;
+}
+.dropdown-item:hover {
+  background-color: darkolivegreen;
+
+}
+/* SOCIAL MEDIA ACCOUNTS: */
+#social-links {
+display: inline-block;
+padding: .5em;
+float: right;
+}
+#social-links .social-item {
+  margin: .25px;
+}
+#social-links img {
+  width: 30px;
+  height: 30px;
+  opacity: .5;
+}
+#social-links img:hover {
+  opacity: 1;
+}
